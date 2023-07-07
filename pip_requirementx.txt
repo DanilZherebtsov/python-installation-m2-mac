@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+scikit-learn
+optuna
+tensorflow
+keras
+opencv-python
+matplotlib
+seaborn
+verstack
