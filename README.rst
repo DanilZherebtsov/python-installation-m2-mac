@@ -1,6 +1,8 @@
 python-installation-m2-mac Code snippets to copy&paste
 ======================================================
 
+Supporting the detailed YouTube `video` <https://youtu.be/u62MifBPI5g>_ 
+
 Pyenv dependencies:
 ---------------------------
 
